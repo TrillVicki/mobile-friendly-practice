@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    margin: 0px; 
+  
+}
+
+header {
+    background-image: url("../img/wave.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid red;
+    height: 500px;
+}
